@@ -1,2 +1,10 @@
-# macOS cache
-.DS_Cache
+# See LICENSE folder for this sample’s licensing information.
+#
+# Apple sample code gitignore configuration.
+
+# macOS Finder cache
+.DS_Store
+
+# Xcode - User files
+xcuserdata/
+*.xcworkspace
